@@ -48,3 +48,6 @@ Next, apply this query to the list of channels:
   />
 ```
 
+More filters you can use:
+https://sendbird.github.io/core-sdk-javascript/module-model_query_groupChannelListQuery-GroupChannelListQuery.html
+
